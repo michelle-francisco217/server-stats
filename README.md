@@ -55,5 +55,11 @@ A execução com `sudo` é necessária para acessar as tentativas de login com f
 - Para evitar problemas de permissão, certifique-se de executá-lo com as permissões corretas.
 - Recomenda-se agendar sua execução periodicamente via cron para monitoramento contínuo.
 
+# Server Stats
+Este é o repositório do meu projeto de monitoramento de servidor.
+
+## Links
+- [Repositório no GitHub](https://github.com/michelle-francisco217/server-stats)
+
 ## Licença
 Este projeto é distribuído sob a licença **MIT**. Sinta-se à vontade para usá-lo e modificá-lo conforme necessário.
